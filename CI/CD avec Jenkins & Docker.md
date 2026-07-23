@@ -18,7 +18,7 @@ Installer Docker Engine dans WSL2 (documentation officiel)
 
 <img width="1576" height="762" alt="image" src="https://github.com/user-attachments/assets/1b90750d-5668-475d-a23e-f1b768b9e59a" />
 
-<img width="1458" height="372" alt="image" src="https://github.com/user-attachments/assets/292aef46-07a1-4785-bd3c-2a9456018ccd" />
+
 
 <img width="1376" height="992" alt="image" src="https://github.com/user-attachments/assets/64bdf4a0-c6c3-4e97-9113-3012acadc2fe" />
 
